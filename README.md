@@ -43,11 +43,18 @@ my-first-react
 
 ### Mood Changer App
 
-![Mood Changer] 
-(./screenshots/mood-changer.1.png)
-(./screenshots/mood-changer.2.png)
-(./screenshots/mood-changer.3.png)
-(./screenshots/mood-changer.4.png)
+## 📸 Screenshots
+
+### Mood Changer App
+
+![Mood Changer 1](./screenshots/mood-changer.1.png)
+
+![Mood Changer 2](./screenshots/mood-changer.2.png)
+
+![Mood Changer 3](./screenshots/mood-changer.3.png)
+
+![Mood Changer 4](./screenshots/mood-changer.4.png)
+
 
 
 ## 👨‍💻 Author
