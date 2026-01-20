@@ -35,13 +35,10 @@ my-first-react
 ├── public
 ├── package.json
 └── vite.config.js
+
 ## How to run this project
 1. Install dependencies npm install
 2. Start project npm run dev
-# 📸 Screenshots
-## 📸 Screenshots
-
-### Mood Changer App
 
 ## 📸 Screenshots
 
