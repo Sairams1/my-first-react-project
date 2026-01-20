@@ -39,8 +39,16 @@ my-first-react
 1. Install dependencies npm install
 2. Start project npm run dev
 # 📸 Screenshots
+## 📸 Screenshots
 
-_(Add screenshots here later)_
+### Mood Changer App
+
+![Mood Changer] 
+(./screenshots/mood-changer.1.png)
+(./screenshots/mood-changer.2.png)
+(./screenshots/mood-changer.3.png)
+(./screenshots/mood-changer.4.png)
+
 
 ## 👨‍💻 Author
 
