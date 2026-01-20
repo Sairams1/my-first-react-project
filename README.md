@@ -44,13 +44,15 @@ my-first-react
 
 ### Mood Changer App
 
-![Mood Changer 1](./screenshots/mood-changer.1.png)
 
-![Mood Changer 2](./screenshots/mood-changer.2.png)
+![Mood Changer 1](./my-first-react/screenshots/mood-changer.1.png)
 
-![Mood Changer 3](./screenshots/mood-changer.3.png)
+![Mood Changer 2](./my-first-react/screenshots/mood-changer.2.png)
 
-![Mood Changer 4](./screenshots/mood-changer.4.png)
+![Mood Changer 3](./my-first-react/screenshots/mood-changer.3.png)
+
+![Mood Changer 4](./my-first-react/screenshots/mood-changer.4.png)
+
 
 
 
