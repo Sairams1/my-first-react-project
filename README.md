@@ -1,70 +1,119 @@
-# 🎭 Mood Changer App
 
-A simple React application built to understand the basics of **React hooks**, especially `useState`.
+🌦️ Weather Application (React.js)
 
-## 🚀 Live Overview
+A simple and responsive Weather Application built using React.js that allows users to search for a city and view real-time weather information.
 
-This project allows users to change and view their current mood dynamically using React state management.
+🚀 Features
 
-## 📌 Features
+🔍 Search weather by city name
 
-- 😊 Displays current mood  
-- 🔁 Updates mood instantly  
-- ⚛️ Uses React `useState` hook  
-- 🎨 Clean and simple UI  
+🌡️ Displays current temperature
 
-## 🛠️ Technologies Used
+☁️ Shows weather condition (Clear, Cloudy, Rain, etc.)
 
-- **React JS**
-- **JavaScript (ES6)**
-- **HTML5**
-- **CSS3**
-- **Vite**
-- 
-## 📂 Project Structure
-my-first-react
+❌ Handles invalid city names with error messages
+
+🔄 Clears previous results when searching for a new city
+
+🎨 Clean and user-friendly UI
+
+🛠️ Technologies Used
+
+React.js
+
+Vite
+
+JavaScript (ES6)
+
+Weather API
+
+CSS
+
+📂 Project Structure
+my-first-react/
 │
-├── src
-│ ├── assets
-│ ├── components
-│ ├── pages
-│ ├── styles
-│ ├── App.jsx
-│ └── main.jsx
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles/
+│       └── App.css
 │
-├── public
+├── .env
 ├── package.json
-└── vite.config.js
+└── README.md
 
-## How to run this project
-1. Install dependencies npm install
-2. Start project npm run dev
+🔑 Environment Variable Setup
 
-## 📸 Screenshots
+Create a .env file in the root directory and add your API key:
 
-### Mood Changer App
+VITE_WEATHER_API_KEY=your_api_key_here
 
 
-![Mood Changer 1](./my-first-react/screenshots/mood-changer.1.png)
+⚠️ Do not commit your .env file to GitHub.
 
-![Mood Changer 2](./my-first-react/screenshots/mood-changer.2.png)
+▶️ How to Run the Project Locally
 
-![Mood Changer 3](./my-first-react/screenshots/mood-changer.3.png)
+1️⃣ Clone the repository:
 
-![Mood Changer 4](./my-first-react/screenshots/mood-changer.4.png)
-
-
+git clone https://github.com/your-username/your-repo-name.git
 
 
-## 👨‍💻 Author
+2️⃣ Navigate to the project folder:
 
-**Venkata Sai Ram**  
-Frontend Developer (React Beginner)
+cd my-first-react
 
-## ⭐ Learning Purpose
 
-This project was created for learning and practice purposes to strengthen React fundamentals.
+3️⃣ Install dependencies:
 
-### 🙌 Thank you for visiting!
+npm install
+
+
+4️⃣ Start the development server:
+
+npm run dev
+
+
+5️⃣ Open your browser and visit:
+
+http://localhost:5173
+
+📸 Application Flow
+
+User enters a city name
+
+Clicks on Get Weather
+
+Application fetches data from Weather API
+
+Weather details are displayed on the screen
+
+📈 Learning Outcomes
+
+Understanding React Hooks (useState)
+
+Working with API integration
+
+Handling user input and errors
+
+Managing component state
+
+Improving user experience
+
+🔮 Future Enhancements
+
+🌙 Dark mode
+
+📍 Auto-detect user location
+
+🌦️ Weather icons
+
+⏳ Loading spinner
+
+📱 Improved mobile responsiveness
+
+👤 Author
+
+Sairam Itha
+B.Tech CSE Student | Aspiring Frontend Developer it is good
 
 
