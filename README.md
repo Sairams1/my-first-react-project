@@ -75,7 +75,7 @@ npm run dev
 
 5️⃣ Open your browser and visit:
 
-http://localhost:5173
+sairam-weather-application.netlify.app
 
 📸 Application Flow
 
